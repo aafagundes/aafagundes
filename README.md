@@ -3,8 +3,7 @@
 Bem-vindo(a) ao meu GitHub!
 Fico feliz com você passando por aqui ✨
 
-Aqui você vai encontrar alguns de meus projetos e estudos do início da minha jornada em análise de dados. 
-
+Aqui você encontrará alguns dos meus projetos e estudos do início da minha jornada em análise de dados.
 
 👩‍💻 Conecte-se comigo: 
 
